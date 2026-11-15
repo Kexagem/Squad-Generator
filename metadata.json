@@ -1,0 +1,6 @@
+{
+  "name": "Arma 3 Squad Generator 2",
+  "description": "A military-grade tool to parse SQF loadouts and generate full faction squads with role-specific gear variations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
